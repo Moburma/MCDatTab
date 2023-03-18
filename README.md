@@ -1,5 +1,5 @@
 # MCDatTab
-LEVELS.DAT/TAB file creator for Bullfrog's Magic Carpet game.
+PowerShell 5 LEVELS.DAT/TAB file creator script for Bullfrog's Magic Carpet game.
 
 This script can concatenate Magic Carpet LEV000XX.DAT level files into the needed LEVELS.DAT and LEVELS.TAB files to run them in game. This is necessary if you want to edit, re-order, or add more levels to the game in order to actually play them.
 To get at the level files you must own the original release of Magic Carpet (NOT Magic Carpet Plus), where you will find them in the LEVELS directory on the CD. 
